@@ -1,0 +1,4 @@
+flask
+flask-cors
+transformers
+torch   # Required by many transformer models
